@@ -4,7 +4,7 @@ Hi 👋 My name is JP Parraga
 Machine Learning Engineer & Python Developer | Entrepreneur
 -----------------------------------------------------------
 
-My first exposure to code was back in middle school where I learned C#. I learned how to draw shapes 🤪 In college 🏫, I got really into data science and developed a lot of skills in Python/R. While I interning and working I developed skills in ReactJS specifically for data visualization. Coding is awesome! I would highly recommend it to everyone.
+My first exposure to code was back in middle school where I learned C#. I learned how to draw shapes 🤪 In college 🏫, I got really into data science and developed a lot of skills in Python/R. While I interning and working I developed skills in ReactJS specifically for data visualization. Now I focus on predictive modeling for a variety of industries. Coding is awesome! I would highly recommend it to everyone.
 
 * 🌍  I'm based in Utah
 * ✉️  You can contact me at [parragajp@gmail.com](mailto:parragajp@gmail.com)
