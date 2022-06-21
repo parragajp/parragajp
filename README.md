@@ -34,3 +34,6 @@ My first exposure to code was back in middle school where I learned C#. I learne
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/parragajp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/j-p-parraga-7a96a6151/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCs0HYmxsjiwiWyv--PCoCIQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FAshamedWeightyDachshund-max-1mb.gif&f=1&nofb=1">
